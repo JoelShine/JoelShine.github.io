@@ -1,0 +1,8 @@
+Special thanks to BootstrapMade.com for giving this template to work on.
+
+Template Name: DevFolio
+Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
+
+Modified by JoelShine - https://github.com/JoelShine
